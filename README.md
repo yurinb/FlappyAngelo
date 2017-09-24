@@ -1,2 +1,2 @@
 # FlappyAngelo
-Flappybird game made at college - First Semester
+We made a FlappyBird game with some funny things like birds with our faces and explosions...
